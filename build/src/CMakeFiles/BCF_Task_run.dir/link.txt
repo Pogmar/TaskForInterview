@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BCF_Task_run.dir/main.cpp.o  -o BCF_Task_run  -pthread 

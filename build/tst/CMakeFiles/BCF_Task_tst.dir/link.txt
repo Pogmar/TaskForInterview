@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BCF_Task_tst.dir/analyzer-test.cpp.o CMakeFiles/BCF_Task_tst.dir/main.cpp.o  -o BCF_Task_tst  ../src/libBCF_Task_lib.a ../lib/libgtestd.a -pthread 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/_programowanie/BCF_task/src/analyzer.h
+iostream
+-
+filesystem
+-
+fstream
+-
+string
+-
+thread
+-
+future
+-
+mutex
+-
+atomic
+-
+utility
+-
+tuple
+-
+vector
+-
+map
+-
+functional
+-
+
+/mnt/d/_programowanie/BCF_task/src/main.cpp
+analyzer.h
+/mnt/d/_programowanie/BCF_task/src/analyzer.h
+exception
+-
+
